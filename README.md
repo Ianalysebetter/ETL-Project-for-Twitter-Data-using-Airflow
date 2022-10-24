@@ -1,4 +1,4 @@
-### ETL Project for handeling Twitter Data using airflow and AWS EC2
+### ETL Project for handling Twitter Data using airflow and AWS EC2
 
 ### Software and tools Requirement
 1. [Visual Studio Code](https://code.visualstudio.com/)
